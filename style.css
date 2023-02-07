@@ -2,3 +2,62 @@ html,body{
     margin: 0;
     padding: 0;
 }
+.block-1{
+    background-color: #34589b;
+}
+.logo img{
+    width: 150px;
+
+}
+.logo{
+    margin-left: 150px;
+    
+}
+.menu{
+    float: right;
+    margin-right: 150px;
+    margin-top: -120px;
+    clear: both;
+    }
+    .menu ul li{
+        float: left;
+        list-style: none;
+        padding: 10px;
+    }
+    .menu ul a{
+        color: #fff;
+        text-decoration: none;
+    }
+.word-1{
+    width: 35%;
+    margin-left: 150px;
+}
+.word-2{
+    width: 35%;
+    float:right;
+    margin-right: 150px;
+    margin-top: -420px;
+    clear: both;
+}
+.word-2 img{
+    width: 500px;
+    height: 150px;
+    }
+    .block-2{
+        margin-top: 50px;
+        
+    }
+.block-2 img{
+    width: 150px;
+    height: 100px;
+   
+}
+ .foto-1{
+    float: left;
+ }
+ .foto-2{
+    float: left;
+ }
+ .foto-3{
+    float: left;
+ }
