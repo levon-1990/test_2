@@ -47,7 +47,7 @@ html,body{
 .word-2 img{
     width: 500px;
     height: 150px;
-    
+    border: 2px #fff solid;
         }
 
     .block-2{
