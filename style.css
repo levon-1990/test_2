@@ -3,7 +3,8 @@ html,body{
     padding: 0;
 }
 .block-1{
-    background-color: #34589b;
+    background-color: #617cad;
+    color: #fff;
 }
 .logo img{
     width: 150px;
@@ -28,6 +29,10 @@ html,body{
         color: #fff;
         text-decoration: none;
     }
+    .menu ul li:hover{
+        border: 2px solid #2f3238;
+        background-color: #2f3238;
+    }
 .word-1{
     width: 35%;
     margin-left: 150px;
@@ -36,19 +41,22 @@ html,body{
     width: 35%;
     float:right;
     margin-right: 150px;
-    margin-top: -420px;
+    margin-top: -350px;
     clear: both;
 }
 .word-2 img{
     width: 500px;
     height: 150px;
-    }
+    
+        }
+
     .block-2{
         margin-top: 50px;
+        margin-left: 100px;
         
     }
 .block-2 img{
-    width: 150px;
+    width: 200px;
     height: 100px;
    
 }
@@ -60,4 +68,11 @@ html,body{
  }
  .foto-3{
     float: left;
+ }
+ .block-2 div{
+    padding-left: 70px;
+ }
+ .foto-4{
+    float: right;
+    margin-right: 150px;
  }
