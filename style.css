@@ -3,8 +3,10 @@ html,body{
     padding: 0;
 }
 .block-1{
-    background-color: #617cad;
+    background-color: #4c79cc;
     color: #fff;
+    padding-bottom: 50px;
+    
 }
 .logo img{
     width: 150px;
@@ -16,9 +18,10 @@ html,body{
 }
 .menu{
     float: right;
-    margin-right: 150px;
-    margin-top: -120px;
+    margin-right: 200px;
+    margin-top: -80px;
     clear: both;
+    
     }
     .menu ul li{
         float: left;
@@ -36,18 +39,19 @@ html,body{
 .word-1{
     width: 35%;
     margin-left: 150px;
+    
 }
 .word-2{
     width: 35%;
     float:right;
-    margin-right: 150px;
+    margin-right: 200px;
     margin-top: -350px;
     clear: both;
 }
 .word-2 img{
-    width: 500px;
+    width: 400px;
     height: 150px;
-    border: 2px #fff solid;
+    border: 3px #fff solid;
         }
 
     .block-2{
@@ -75,4 +79,25 @@ html,body{
  .foto-4{
     float: right;
     margin-right: 150px;
+ }
+ .block-2 p{
+    color: #a8adb8;
+ }
+ .block-2 p a{
+    color: #06080c;
+ }
+ .block-2 p a:hover{
+color: #a8adb8;
+ }
+ .clear{
+    clear: both;
+ }
+ .read{
+    padding-top: 50px;
+    padding-bottom: 50px;
+ }
+ .footer{
+    margin-left: 450px;
+    color: #a8adb8;
+    padding-bottom: 50px;
  }
